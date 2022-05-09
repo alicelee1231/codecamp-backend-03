@@ -1,0 +1,9 @@
+{
+  "name": "codecamp-backend-03",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/alicelee1231/codecamp-backend-03.git",
+  "author": "alicelee1231 <saemmilee1231@gmail.com>",
+  "license": "MIT", 
+  "type" : "module"
+}
